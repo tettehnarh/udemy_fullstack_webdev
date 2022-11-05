@@ -2,4 +2,4 @@
 
 ## by Leslie Narh
 
-> This repository is to track my progress in becoming a full stack developer
+> This repository is to track my full stack projects
